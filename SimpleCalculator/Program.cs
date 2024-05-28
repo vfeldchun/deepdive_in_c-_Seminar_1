@@ -68,7 +68,7 @@ namespace SimpleCalculator {
             if (mathOperation.Equals("+")) return result = first + second;
             if (mathOperation.Equals("-")) return result = first - second;
             if (mathOperation.Equals("/")) return result = first / second;
-            return result = first * second; ;
+            return result = first * second;
         }
 
         static void PrintHelp()
