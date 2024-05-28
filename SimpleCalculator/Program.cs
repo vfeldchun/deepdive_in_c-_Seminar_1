@@ -7,8 +7,6 @@ namespace SimpleCalculator {
         {
             string mathOperators = "+-/*";
 
-            double result = 0;
-
             double firstValue;
             double secondValue;
 
